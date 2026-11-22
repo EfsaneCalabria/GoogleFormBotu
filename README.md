@@ -17,7 +17,7 @@
 | :--- | :--- | :--- |
 | 🌐 **Resmi Web Panel** | [formbot.com.tr](https://formbot.com.tr/panel) | Bulut tabanlı yönetim paneli (PC & Mobil uyumlu) |
 | ✈️ **Telegram Botu** | [@FormYoneticiBot](https://t.me/FormYoneticiBot) | Gönderim bittiğinde anlık bildirim ve tur raporu |
-| 🎫 **Canlı Destek** | [formbot.com.tr Destek](https://formbot.com.tr) | Panel içi 7/24 entegre bilet (ticket) destek sistemi |
+| 🎫 **Canlı Destek** | [formbot.com.tr Destek](https://formbot.com.tr/panel) | Panel içi 7/24 entegre bilet (ticket) destek sistemi |
 
 ---
 
